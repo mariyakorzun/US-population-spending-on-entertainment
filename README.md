@@ -1,4 +1,4 @@
-# US-population-spending-on-entertainment
+# US-population-spending-on-entertainment-analysis
 This research is devoted to analysis of data provided by US Bureau of the Census.
 The data is aggregate (for the whole of United States) annual observations for the period 1959 - 2003 on income, 20 categories of consumer expenditure and price index series for these categories. The income and expenditure variables are all measured in $ billion at 2000 constant prices. The price index series are all based with 2000 = 100.
 
